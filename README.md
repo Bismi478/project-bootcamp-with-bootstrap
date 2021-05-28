@@ -11,7 +11,7 @@
     <!-- Navbar -->
     <nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-primary">
   <div class="container-fluid">
-    <a class="navbar-brand" href="#">Ajith P S</a>
+    <a class="navbar-brand" href="#">Bismi sabu</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -43,10 +43,10 @@
       <button class="btn btn-primary btn-sm">My cool resume</button>
     </div>
     <div class="d-md-none w-50 w-50">
-      <img src="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80" alt="Ajith" class="w-100 h-100 rounded-circle shadow">
+      <img src="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80" alt="Bismi" class="w-100 h-100 rounded-circle shadow">
     </div>
     <div class="d-none d-md-block w-25 h-25">
-      <img src="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80" alt="Ajith" class="w-100 h-100 rounded-circle shadow">
+      <img src="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80" alt="Bismi" class="w-100 h-100 rounded-circle shadow">
     </div>
   </section>
   <section id="skills" class="mt-5 p-4 ">
@@ -118,7 +118,7 @@
       </div>
       <div class="col-sm col-md-4">
     <div class="mt-3">
-      <h4><i class="fas fa-at text-primary"></i>psajith987@gmail.com</h4>
+      <h4><i class="fas fa-at text-primary"></i>bismisabu18@gmail.com</h4>
       <button type="button" class="btn btn-link">
         <a href="https://github.com/AJITHPS7"><i class="fab fa-github"></i></a>
       </button>
